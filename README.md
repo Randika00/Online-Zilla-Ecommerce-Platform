@@ -16,9 +16,6 @@ I put a lot of effort into developing an intuitive and user-friendly user interf
 
 ## Preview 
 
-![index](https://github.com/Randika00/Online-Zilla-Ecommerce-Platform/assets/89309192/9c8c75f3-3202-4d91-ad29-41382c99fc1b)
-
-
 ![customer](https://github.com/Randika00/Online-Zilla-Ecommerce-Platform/assets/89309192/9bfde4a2-0001-41e8-9d9e-26bba90e7bd2)
 
 
