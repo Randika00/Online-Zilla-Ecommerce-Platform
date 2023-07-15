@@ -14,7 +14,7 @@ This project gave me the opportunity to work autonomously while gaining practica
   
 I put a lot of effort into developing an intuitive and user-friendly user interface so that the system would be usable by all relevant customers with varying degrees of technical expertise.
 
-## Preview 
+## Preview:
 
 ![customer](https://github.com/Randika00/Online-Zilla-Ecommerce-Platform/assets/89309192/9bfde4a2-0001-41e8-9d9e-26bba90e7bd2)
 
