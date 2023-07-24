@@ -9,7 +9,7 @@ This project gave me the opportunity to work autonomously while gaining practica
 - Managing customer reviews and feedback
 - Facilitating online paymnet gateways
 - Delivery process
-- Inventory management
+- Inventory management 
 - Social Sharing planning
   
 I put a lot of effort into developing an intuitive and user-friendly user interface so that the system would be usable by all relevant customers with varying degrees of technical expertise.
