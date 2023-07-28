@@ -6,7 +6,7 @@ This project gave me the opportunity to work autonomously while gaining practica
 
 - Handling customer orders and checkout flow
 - Managing customer reviews and feedback
-- Facilitating online paymnet gateways
+- Facilitating online paymnet gateways 
 - Delivery process
 - Inventory management 
 - Social Sharing planning
